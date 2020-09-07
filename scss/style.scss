@@ -1,0 +1,23 @@
+@import "_header";
+
+body {
+	font-size: 10px;
+	div {
+		font-size: 20px;
+	}
+}
+.block {
+	&__item {
+		display: flex;
+		align-content: space-between;
+	}
+}
+.kak-nado {
+	font-size: 20px;
+}
+.block {
+}
+.block__item {
+}
+.kak-nado {
+}
